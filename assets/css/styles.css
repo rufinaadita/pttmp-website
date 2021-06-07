@@ -770,4 +770,7 @@ Responsive
   .home-img{
     width: 370px;
   }
+  .service-img{
+    display: none;
+  }
 }
