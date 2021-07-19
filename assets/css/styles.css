@@ -833,4 +833,8 @@ Responsive
   .service-img{
     display: none;
   }
+  .about-img{
+    width: 400px;
+    align-items: center;
+  }
 }
